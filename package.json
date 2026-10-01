@@ -1,0 +1,26 @@
+{
+  "name": "shopify-app-stack-cost",
+  "version": "1.0.0",
+  "description": "Price a stack of Shopify apps at a given order volume from plan data. No dependencies.",
+  "type": "module",
+  "main": "src/stack-cost.js",
+  "license": "MIT",
+  "homepage": "https://storecartel.com",
+  "keywords": [
+    "shopify",
+    "app-cost",
+    "calculator",
+    "ecommerce"
+  ],
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "files": [
+    "src",
+    "README.md",
+    "LICENSE"
+  ]
+}
